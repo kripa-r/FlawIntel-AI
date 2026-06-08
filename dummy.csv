@@ -1,0 +1,101 @@
+Review_ID,Date,Rating,Review_Text,User_Name,Category,Verified_Purchase,System_Notes,Legacy_ID,Helpful_Votes
+REV-001,2026-06-01,5,"Absolutely fantastic smartwatch! Battery lasts for days.",User_1,Smartwatch,Yes,,,12
+REV-002,2026-06-02,1,"Screen scratched on day one. Terrible build quality.",User_2,Smartwatch,Yes,,,45
+REV-003,2026-06-03,4,"Good fitness tracking but the app is a bit clunky.",User_3,Smartwatch,Yes,,,3
+REV-004,2026-06-04,3,"It tells the time. Heart rate monitor is inaccurate.",User_4,Smartwatch,Yes,,,0
+REV-005,2026-06-05,5,"Love the sleek design and the notifications work perfectly.",User_5,Smartwatch,Yes,,,8
+REV-006,2026-06-06,2,"Disconnects from my phone constantly. Very frustrating.",User_6,Smartwatch,Yes,,,15
+REV-007,2026-06-07,1,"Battery died after 3 months. Won't charge anymore.",User_7,Smartwatch,Yes,,,22
+REV-008,2026-06-01,4,"Great value for the price. Screen is bright.",User_8,Smartwatch,Yes,,,1
+REV-009,2026-06-02,5,"Best purchase I've made this year. Highly recommend!",User_9,Smartwatch,Yes,,,5
+REV-010,2026-06-03,3,"Average watch. Step counter seems to overestimate.",User_10,Smartwatch,Yes,,,2
+REV-011,2026-06-04,5,"Absolutely fantastic smartwatch! Battery lasts for days.",User_11,Smartwatch,Yes,,,14
+REV-012,2026-06-05,1,"Screen scratched on day one. Terrible build quality.",User_12,Smartwatch,Yes,,,47
+REV-013,2026-06-06,4,"Good fitness tracking but the app is a bit clunky.",User_13,Smartwatch,Yes,,,5
+REV-014,2026-06-07,3,"It tells the time. Heart rate monitor is inaccurate.",User_14,Smartwatch,Yes,,,1
+REV-015,2026-06-01,5,"Love the sleek design and the notifications work perfectly.",User_15,Smartwatch,Yes,,,10
+REV-016,2026-06-02,2,"Disconnects from my phone constantly. Very frustrating.",User_16,Smartwatch,Yes,,,17
+REV-017,2026-06-03,1,"Battery died after 3 months. Won't charge anymore.",User_17,Smartwatch,Yes,,,24
+REV-018,2026-06-04,4,"Great value for the price. Screen is bright.",User_18,Smartwatch,Yes,,,3
+REV-019,2026-06-05,5,"Best purchase I've made this year. Highly recommend!",User_19,Smartwatch,Yes,,,7
+REV-020,2026-06-06,3,"Average watch. Step counter seems to overestimate.",User_20,Smartwatch,Yes,,,4
+REV-021,2026-06-07,5,"Absolutely fantastic smartwatch! Battery lasts for days.",User_21,Smartwatch,Yes,,,16
+REV-022,2026-06-01,1,"Screen scratched on day one. Terrible build quality.",User_22,Smartwatch,Yes,,,49
+REV-023,2026-06-02,4,"Good fitness tracking but the app is a bit clunky.",User_23,Smartwatch,Yes,,,7
+REV-024,2026-06-03,3,"It tells the time. Heart rate monitor is inaccurate.",User_24,Smartwatch,Yes,,,3
+REV-025,2026-06-04,5,"Love the sleek design and the notifications work perfectly.",User_25,Smartwatch,Yes,,,12
+REV-026,2026-06-05,2,"Disconnects from my phone constantly. Very frustrating.",User_26,Smartwatch,Yes,,,19
+REV-027,2026-06-06,1,"Battery died after 3 months. Won't charge anymore.",User_27,Smartwatch,Yes,,,26
+REV-028,2026-06-07,4,"Great value for the price. Screen is bright.",User_28,Smartwatch,Yes,,,5
+REV-029,2026-06-01,5,"Best purchase I've made this year. Highly recommend!",User_29,Smartwatch,Yes,,,9
+REV-030,2026-06-02,3,"Average watch. Step counter seems to overestimate.",User_30,Smartwatch,Yes,,,6
+REV-031,2026-06-03,5,"Absolutely fantastic smartwatch! Battery lasts for days.",User_31,Smartwatch,Yes,,,18
+REV-032,2026-06-04,1,"Screen scratched on day one. Terrible build quality.",User_32,Smartwatch,Yes,,,51
+REV-033,2026-06-05,4,"Good fitness tracking but the app is a bit clunky.",User_33,Smartwatch,Yes,,,9
+REV-034,2026-06-06,3,"It tells the time. Heart rate monitor is inaccurate.",User_34,Smartwatch,Yes,,,5
+REV-035,2026-06-07,5,"Love the sleek design and the notifications work perfectly.",User_35,Smartwatch,Yes,,,14
+REV-036,2026-06-01,2,"Disconnects from my phone constantly. Very frustrating.",User_36,Smartwatch,Yes,,,21
+REV-037,2026-06-02,1,"Battery died after 3 months. Won't charge anymore.",User_37,Smartwatch,Yes,,,28
+REV-038,2026-06-03,4,"Great value for the price. Screen is bright.",User_38,Smartwatch,Yes,,,7
+REV-039,2026-06-04,5,"Best purchase I've made this year. Highly recommend!",User_39,Smartwatch,Yes,,,11
+REV-040,2026-06-05,3,"Average watch. Step counter seems to overestimate.",User_40,Smartwatch,Yes,,,8
+REV-041,2026-06-06,5,"Absolutely fantastic smartwatch! Battery lasts for days.",User_41,Smartwatch,Yes,,,20
+REV-042,2026-06-07,1,"Screen scratched on day one. Terrible build quality.",User_42,Smartwatch,Yes,,,53
+REV-043,2026-06-01,4,"Good fitness tracking but the app is a bit clunky.",User_43,Smartwatch,Yes,,,11
+REV-044,2026-06-02,3,"It tells the time. Heart rate monitor is inaccurate.",User_44,Smartwatch,Yes,,,7
+REV-045,2026-06-03,5,"Love the sleek design and the notifications work perfectly.",User_45,Smartwatch,Yes,,,16
+REV-046,2026-06-04,2,"Disconnects from my phone constantly. Very frustrating.",User_46,Smartwatch,Yes,,,23
+REV-047,2026-06-05,1,"Battery died after 3 months. Won't charge anymore.",User_47,Smartwatch,Yes,,,30
+REV-048,2026-06-06,4,"Great value for the price. Screen is bright.",User_48,Smartwatch,Yes,,,9
+REV-049,2026-06-07,5,"Best purchase I've made this year. Highly recommend!",User_49,Smartwatch,Yes,,,13
+REV-050,2026-06-01,3,"Average watch. Step counter seems to overestimate.",User_50,Smartwatch,Yes,,,10
+REV-051,2026-06-02,5,"Absolutely fantastic smartwatch! Battery lasts for days.",User_51,Smartwatch,Yes,,,22
+REV-052,2026-06-03,1,"Screen scratched on day one. Terrible build quality.",User_52,Smartwatch,Yes,,,55
+REV-053,2026-06-04,4,"Good fitness tracking but the app is a bit clunky.",User_53,Smartwatch,Yes,,,13
+REV-054,2026-06-05,3,"It tells the time. Heart rate monitor is inaccurate.",User_54,Smartwatch,Yes,,,9
+REV-055,2026-06-06,5,"Love the sleek design and the notifications work perfectly.",User_55,Smartwatch,Yes,,,18
+REV-056,2026-06-07,2,"Disconnects from my phone constantly. Very frustrating.",User_56,Smartwatch,Yes,,,25
+REV-057,2026-06-01,1,"Battery died after 3 months. Won't charge anymore.",User_57,Smartwatch,Yes,,,32
+REV-058,2026-06-02,4,"Great value for the price. Screen is bright.",User_58,Smartwatch,Yes,,,11
+REV-059,2026-06-03,5,"Best purchase I've made this year. Highly recommend!",User_59,Smartwatch,Yes,,,15
+REV-060,2026-06-04,3,"Average watch. Step counter seems to overestimate.",User_60,Smartwatch,Yes,,,12
+REV-061,2026-06-05,5,"Absolutely fantastic smartwatch! Battery lasts for days.",User_61,Smartwatch,Yes,,,24
+REV-062,2026-06-06,1,"Screen scratched on day one. Terrible build quality.",User_62,Smartwatch,Yes,,,57
+REV-063,2026-06-07,4,"Good fitness tracking but the app is a bit clunky.",User_63,Smartwatch,Yes,,,15
+REV-064,2026-06-01,3,"It tells the time. Heart rate monitor is inaccurate.",User_64,Smartwatch,Yes,,,11
+REV-065,2026-06-02,5,"Love the sleek design and the notifications work perfectly.",User_65,Smartwatch,Yes,,,20
+REV-066,2026-06-03,2,"Disconnects from my phone constantly. Very frustrating.",User_66,Smartwatch,Yes,,,27
+REV-067,2026-06-04,1,"Battery died after 3 months. Won't charge anymore.",User_67,Smartwatch,Yes,,,34
+REV-068,2026-06-05,4,"Great value for the price. Screen is bright.",User_68,Smartwatch,Yes,,,13
+REV-069,2026-06-06,5,"Best purchase I've made this year. Highly recommend!",User_69,Smartwatch,Yes,,,17
+REV-070,2026-06-07,3,"Average watch. Step counter seems to overestimate.",User_70,Smartwatch,Yes,,,14
+REV-071,2026-06-01,5,"Absolutely fantastic smartwatch! Battery lasts for days.",User_71,Smartwatch,Yes,,,26
+REV-072,2026-06-02,1,"Screen scratched on day one. Terrible build quality.",User_72,Smartwatch,Yes,,,59
+REV-073,2026-06-03,4,"Good fitness tracking but the app is a bit clunky.",User_73,Smartwatch,Yes,,,17
+REV-074,2026-06-04,3,"It tells the time. Heart rate monitor is inaccurate.",User_74,Smartwatch,Yes,,,13
+REV-075,2026-06-05,5,"Love the sleek design and the notifications work perfectly.",User_75,Smartwatch,Yes,,,22
+REV-076,2026-06-06,2,"Disconnects from my phone constantly. Very frustrating.",User_76,Smartwatch,Yes,,,29
+REV-077,2026-06-07,1,"Battery died after 3 months. Won't charge anymore.",User_77,Smartwatch,Yes,,,36
+REV-078,2026-06-01,4,"Great value for the price. Screen is bright.",User_78,Smartwatch,Yes,,,15
+REV-079,2026-06-02,5,"Best purchase I've made this year. Highly recommend!",User_79,Smartwatch,Yes,,,19
+REV-080,2026-06-03,3,"Average watch. Step counter seems to overestimate.",User_80,Smartwatch,Yes,,,16
+REV-081,2026-06-04,5,"Absolutely fantastic smartwatch! Battery lasts for days.",User_81,Smartwatch,Yes,,,28
+REV-082,2026-06-05,1,"Screen scratched on day one. Terrible build quality.",User_82,Smartwatch,Yes,,,61
+REV-083,2026-06-06,4,"Good fitness tracking but the app is a bit clunky.",User_83,Smartwatch,Yes,,,19
+REV-084,2026-06-07,3,"It tells the time. Heart rate monitor is inaccurate.",User_84,Smartwatch,Yes,,,15
+REV-085,2026-06-01,5,"Love the sleek design and the notifications work perfectly.",User_85,Smartwatch,Yes,,,24
+REV-086,2026-06-02,2,"Disconnects from my phone constantly. Very frustrating.",User_86,Smartwatch,Yes,,,31
+REV-087,2026-06-03,1,"Battery died after 3 months. Won't charge anymore.",User_87,Smartwatch,Yes,,,38
+REV-088,2026-06-04,4,"Great value for the price. Screen is bright.",User_88,Smartwatch,Yes,,,17
+REV-089,2026-06-05,5,"Best purchase I've made this year. Highly recommend!",User_89,Smartwatch,Yes,,,21
+REV-090,2026-06-06,3,"Average watch. Step counter seems to overestimate.",User_90,Smartwatch,Yes,,,18
+REV-091,2026-06-07,5,"Absolutely fantastic smartwatch! Battery lasts for days.",User_91,Smartwatch,Yes,,,30
+REV-092,2026-06-01,1,"Screen scratched on day one. Terrible build quality.",User_92,Smartwatch,Yes,,,63
+REV-093,2026-06-02,4,"Good fitness tracking but the app is a bit clunky.",User_93,Smartwatch,Yes,,,21
+REV-094,2026-06-03,3,"It tells the time. Heart rate monitor is inaccurate.",User_94,Smartwatch,Yes,,,17
+REV-095,2026-06-04,5,"Love the sleek design and the notifications work perfectly.",User_95,Smartwatch,Yes,,,26
+REV-096,2026-06-05,2,"Disconnects from my phone constantly. Very frustrating.",User_96,Smartwatch,Yes,,,33
+REV-097,2026-06-06,1,"Battery died after 3 months. Won't charge anymore.",User_97,Smartwatch,Yes,,,40
+REV-098,2026-06-07,4,"Great value for the price. Screen is bright.",User_98,Smartwatch,Yes,,,19
+REV-099,2026-06-01,5,"Best purchase I've made this year. Highly recommend!",User_99,Smartwatch,Yes,,,23
+REV-100,2026-06-02,3,"Average watch. Step counter seems to overestimate.",User_100,Smartwatch,Yes,,,20
